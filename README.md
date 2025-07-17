@@ -28,7 +28,8 @@ Estoy en constante aprendizaje, creando proyectos personales y colaborando cuand
   <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="120" height="120" />
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=7000&pause=1000&color=00F7FF&center=false&vCenter=true&width=650&height=50&lines=Herramientas%20y%20tecnologías%20en%20uso" />
 </div>
-<p align="left"><i>🔹 Estas son las tecnologías con las que trabajo o estoy aprendiendo actualmente como desarrollador. Algunas las domino más que otras, pero estoy en constante formación. 🚀</i></p>
+<p align="left"><i>🔹 Estas son las tecnologías con las que trabaje o use para un determinado proyecto, actualmente como desarrollador algunas de las tecnologias las domino más que otras, pero estoy en constante formación.
+Siempre predispuesto para cualquier PROYECTO 🚀</i></p>
 
 <table cellspacing="30">
   <tr>
