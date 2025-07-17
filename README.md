@@ -61,7 +61,7 @@ Estoy en constante aprendizaje, creando proyectos personales y colaborando cuand
   </tr>
 </table>
 
-<h2 align="center">Contactos:</h2>
+<h2 align="center">Puedes Contactarme mediante:</h2>
 <p align="center">
   <!-- Linkedin -->  
   <a href="https://linkedin.com/in/tu_usuario_linkedin" target="_blank" rel="noopener noreferrer">
