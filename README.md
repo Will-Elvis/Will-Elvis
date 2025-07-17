@@ -61,3 +61,34 @@ Estoy en constante aprendizaje, creando proyectos personales y colaborando cuand
   </tr>
 </table>
 
+<h2 align="center">Contactos:</h2>
+<p align="center">
+  <!-- Linkedin -->  
+  <a href="https://linkedin.com/in/tu_usuario_linkedin" target="_blank" rel="noopener noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elvis-linkedin" height="30" width="40" />
+  </a>
+  <!-- Instagram -->  
+  <a href="https://instagram.com/tu_usuario_instagram" target="_blank" rel="noopener noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="elvis-instagram" height="30" width="40" />
+  </a>
+
+  <!-- Discord -->  
+  <a href="https://discord.gg/tu_codigo_o_usuario" target="_blank" rel="noopener noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="elvis-discord" height="30" width="40" />
+  </a>
+  <!-- Facebook -->  
+  <!--<a href="https://fb.com/wilson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wilson" height="30" width="40" /></a>-->  
+  <!--<a href="https://www.youtube.com/c/wilson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="wilson" height="30" width="40" /></a>-->
+    <!-- Discord -->  
+</p>
+
+<div align="center">
+  <a href="mailto:tuemail@dominio.com" target="_top" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/bubbles/100/000000/gmail-new.png" alt="mi-email"/>
+  </a>
+</div>
+
+
+
+
+
